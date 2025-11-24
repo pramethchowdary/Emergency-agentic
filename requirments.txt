@@ -1,0 +1,10 @@
+fastapi
+unicorn
+python-dotenv
+websockets
+twilio
+requests
+ffmpeg-python
+deepgram-sdk
+httpx
+google-genai

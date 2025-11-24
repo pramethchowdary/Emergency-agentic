@@ -1,0 +1,115 @@
+
+------------------------------
+NEW CALL STARTED AT 2025-11-24 15:10:41.360919
+------------------------------
+[2025-11-24 15:10:46] User: yeah i i just
+[2025-11-24 15:10:48] AI: Okay, I'm here to help. What's happening?
+
+[2025-11-24 15:10:49] User: lane down in
+[2025-11-24 15:10:51] AI: I can't understand "lane down in". Can you describe your emergency more clearly?
+
+[2025-11-24 15:10:52] User: i think that i need some help for ama or something
+[2025-11-24 15:10:54] AI: Okay, I understand you might need help with anxiety, or a panic attack. Can you tell me if you are having trouble breathing?
+
+[2025-11-24 15:11:10] User: yeah while going to better i just
+[2025-11-24 15:11:12] AI: Please speak clearly. I am having trouble understanding you. Are you in an emergency?
+
+[2025-11-24 15:11:13] User: five
+[2025-11-24 15:11:15] AI: I'm here to help. What is the emergency?
+
+[2025-11-24 15:11:17] User: who is laying on the ground i think we need some medical health
+[2025-11-24 15:11:19] AI: Okay, I can help.
+
+1.  **Check for responsiveness:** Gently tap or shake the person and shout, "Are you okay?"
+2.  **Call for help:** If they don't respond, tell someone nearby to call emergency services (911 in the US). If you're alone, use your cell phone to call.
+3.  **Check for breathing:** Look at the person's chest to see if it is rising and falling. If they are not breathing or are only gasping, prepare to start CPR.
+4.  **Begin CPR:**
+    *   Place the heel of one hand in the center of the person's chest. Place your other hand on top of the
+[2025-11-24 15:11:21] User: i
+[2025-11-24 15:11:22] AI: I'm here to help. What's the emergency?
+
+[2025-11-24 15:11:24] User: yeah
+[2025-11-24 15:11:25] AI: Okay. Tell me what's happening. I'm here to help.
+
+[2025-11-24 15:12:14] User: yeah i think i need an ambulance to send that person
+[2025-11-24 15:12:15] AI: I can help with that. What is the address of the emergency?
+
+[2025-11-24 15:12:17] User: to cost for
+[2025-11-24 15:12:18] AI: I can't quite understand. Are you in danger? Please tell me what is happening.
+
+[2025-11-24 15:12:30] User: yeah and the question is in danger
+[2025-11-24 15:12:32] AI: I understand you're in danger. Can you tell me what is happening? Where are you located?
+
+[2025-11-24 15:12:33] User: i need an ambulance
+[2025-11-24 15:12:34] AI: I can help with that. What is your location? Please be as specific as possible.
+
+[2025-11-24 15:12:48] User: yeah i'm near
+[2025-11-24 15:12:49] AI: Please tell me your location or address so I can get help to you.
+
+[2025-11-24 15:12:51] User: i need an ambulance
+[2025-11-24 15:12:52] AI: I can help with that. What is your location? Please be as specific as possible.
+
+[2025-11-24 15:12:54] User: a person was lying on the ground he was unconscious
+[2025-11-24 15:12:56] AI: 1. Check for danger. Make sure the scene is safe for you.
+2. Check for response: Gently shake their shoulder and shout, "Are you OK?"
+3. If no response, call emergency services immediately (e.g., 911). Tell them the person is unconscious and provide your location.
+4. Check for breathing: Look for chest rise and fall.
+5. If not breathing or only gasping, start CPR. If you know how, do chest compressions in the center of the chest at a rate of 100-120 per minute.
+6. If you don't know CPR, the emergency dispatcher can guide you.
+7. If they are breathing,
+[2025-11-24 15:13:03] User: i didn't even mean
+[2025-11-24 15:13:05] AI: I understand this was an accident. Tell me what happened so I can help you.
+
+
+------------------------------
+NEW CALL STARTED AT 2025-11-24 16:29:23.599585
+------------------------------
+
+------------------------------
+NEW CALL STARTED AT 2025-11-24 16:30:30.876169
+------------------------------
+[2025-11-24 16:30:35] User: hey here i got
+[2025-11-24 16:30:58] AI: I am here to help. What is your emergency?
+
+
+------------------------------
+NEW CALL STARTED AT 2025-11-24 16:35:44.133044
+------------------------------
+[2025-11-24 16:35:49] User: hey i just saw and i
+[2025-11-24 16:35:51] AI: Please speak clearly. What did you see?
+[2025-11-24 16:35:53] User: then in front of me a car run now what should i do
+[2025-11-24 16:35:54] AI: Are you injured? Check yourself for injuries first.
+
+Are you in a safe location? If not, move to a safe spot away from traffic.
+
+Call emergency services (911 in the US) and report the accident.
+
+Exchange information with the other driver, if possible and safe to do so. This includes names, insurance details, and contact information.
+
+Document the scene by taking pictures or videos if you can do so safely.
+[2025-11-24 16:36:02] User: i just saw a car hit
+[2025-11-24 16:36:04] AI: 1. Check for immediate dangers: traffic, fire, or downed power lines.
+2. If safe, check on the people in the vehicles.
+3. Call emergency services (911 or your local number) and provide your location.
+4. Describe the situation and any visible injuries.
+5. Do not move anyone unless they are in immediate danger.
+6. Wait for emergency responders and follow their instructions.
+[2025-11-24 16:36:49] User: hey
+[2025-11-24 16:36:50] AI: Hello. I am an emergency AI. How can I help you?
+[2025-11-24 16:37:01] User: i actually spotted
+[2025-11-24 16:37:02] AI: Please tell me what you spotted. I'm here to help.
+[2025-11-24 16:37:03] User: a person who is actually gasping and not getting clear rate
+[2025-11-24 16:37:05] AI: Okay, I understand.
+
+1. Check for responsiveness. Gently tap their shoulder and shout, "Are you okay?"
+2. If they don't respond, call emergency services immediately. Tell them someone is not breathing.
+3. If you are trained in CPR, begin chest compressions. Push hard and fast in the center of the chest.
+4. Continue compressions until help arrives.
+[2025-11-24 16:37:09] User: so what should i do now
+[2025-11-24 16:37:10] AI: Please tell me what is happening so I can help you.
+[2025-11-24 16:37:11] User: hello
+[2025-11-24 16:37:12] AI: Hello. I am an emergency AI assistant. How can I help you?
+[2025-11-24 16:37:14] User: i e spotted it
+[2025-11-24 16:37:15] AI: Spotted what? Please provide more information so I can assist you.
+[2025-11-24 16:37:21] User: this call is no longer being recorded
+[2025-11-24 16:37:22] AI: Understood. How can I help you?
